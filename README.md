@@ -42,6 +42,32 @@ Outputnya :
 # TUGAS 
 ![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/Cuplikan%20layar%202025-11-25%20235858.png?raw=true)
 
+# Struktur Folder Project
+Berikut adalah struktur folder proyek PROJECT_MODULAR_LAB8 :
+
+PROJECT_MODULAR_LAB8/
+├── assets/
+│   └── css/
+│       └── style.css
+├── config/
+│   └── database.php
+├── modules/
+│   ├── auth/
+│   │   └── login.php
+│   └── user/
+│       ├── add.php
+│       ├── delete.php
+│       ├── edit.php
+│       └── list.php
+├── uploads/
+│   ├── hp_iphone.png
+│   ├── hp_samsung.png
+│   └── hp_xiaomi.png
+├── views/
+│   ├── footer.php
+│   └── header.php
+└── index.php
+
 
 
 
