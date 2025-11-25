@@ -68,7 +68,8 @@ PROJECT_MODULAR_LAB8/
 │   └── header.php
 └── index.php
 
-
+Outputnya :
+![gambar](
 
 
 
