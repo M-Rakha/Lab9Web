@@ -15,22 +15,32 @@ Outputnya :
 - Buat file baru dengan nama header.php
 
 Code :
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/code.header.php.png?raw=true)
 
 - Buat file baru dengan nama footer.php
 
 Code :
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/code.footer.php.png?raw=true)
 
 - Buat file baru dengan nama home.php
 
 Code :
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/code.home.php.png?raw=true)
+
+Outputnya :
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/hsil.home.php.png?raw=true)
+
 
 - Buat file baru dengan nama about.php
 
 Code : 
-![gambar](
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/code.about.php.png?raw=true)
+
+Outputnya :
+![gambar](https://github.com/M-Rakha/Lab9Web/blob/main/pw.pert11%60/hsil.about.php.png?raw=true)
+
+# TUGAS 
+
 
 
 
